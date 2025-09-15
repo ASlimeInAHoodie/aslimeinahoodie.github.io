@@ -37,6 +37,7 @@ export default {
     },
     footer: {
       createdWith: "Created with",
+      themedWith: "Themed with",
     },
     graph: {
       title: "Graph View",

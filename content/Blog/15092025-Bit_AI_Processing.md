@@ -42,13 +42,13 @@ With Qutrits and the BitNet framework, I predict that Quantum Computers will be 
 # See Also
 ## External Sources
 ### BitNet
-[BitNet b1.58 2B4T LLM](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T)
-[BitNet b1.58 2B4T Technical Report White Paper](https://arxiv.org/pdf/2504.12285)
-[BitNet White Paper](https://arxiv.org/pdf/2310.11453)
-[Microsoft researches say they've developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
-[Microsoft researches create super efficient AI that uses up to 96 less energy](https://arstechnica.com/ai/2025/04/microsoft-researchers-create-super%E2%80%91efficient-ai-that-uses-up-to-96-less-energy/)
+- [BitNet b1.58 2B4T LLM](https://huggingface.co/microsoft/bitnet-b1.58-2B-4T)
+- [BitNet b1.58 2B4T Technical Report White Paper](https://arxiv.org/pdf/2504.12285)
+- [BitNet White Paper](https://arxiv.org/pdf/2310.11453)
+- [Microsoft researches say they've developed a hyper-efficient AI model that can run on CPUs](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/)
+- [Microsoft researches create super efficient AI that uses up to 96 less energy](https://arstechnica.com/ai/2025/04/microsoft-researchers-create-super%E2%80%91efficient-ai-that-uses-up-to-96-less-energy/)
 ### Quantum Computing
-[When can we expect a useful quantum computer?](https://introtoquantum.org/essentials/timelines/)
-[High-fidelity Qutrit entangling gates for superconducting circuits](https://www.nature.com/articles/s41467-022-34851-z)
-[Going beyond Qubits: New study demonstrates key components for a Qutrit-based quantum computer](https://newscenter.lbl.gov/2021/04/26/going-beyond-quibits/)
-[Quantum Computing - IBM](https://www.ibm.com/think/topics/quantum-computing)
+- [When can we expect a useful quantum computer?](https://introtoquantum.org/essentials/timelines/)
+- [High-fidelity Qutrit entangling gates for superconducting circuits](https://www.nature.com/articles/s41467-022-34851-z)
+- [Going beyond Qubits: New study demonstrates key components for a Qutrit-based quantum computer](https://newscenter.lbl.gov/2021/04/26/going-beyond-quibits/)
+- [Quantum Computing - IBM](https://www.ibm.com/think/topics/quantum-computing)
