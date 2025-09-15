@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "ASlimeInAHoodie",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " 📖",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#101020",
-          lightgray: "#403640",
-          gray: "#646464",
-          darkgray: "#C8C8C8",
-          dark: "#F0F0F0",
-          secondary: "#6F96AF",
-          tertiary: "#82AF96",
-          highlight: "rgba(165, 144, 164, 0.15)",
-          textHighlight: "#C02080",
+          light: "#282a36",
+          lightgray: "#44475a",
+          gray: "#50fa7b",
+          darkgray: "#f8f8f2",
+          dark: "#ff79c6",
+          secondary: "#bd93f9",
+          tertiary: "#8be9fd",
+          highlight: "rgba(98, 114, 164, 0.15)",
+          textHighlight: "#6272a4",
         },
       },
     },

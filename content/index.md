@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome
+Welcome to my [digital garden](https://jzhao.xyz/posts/networked-thought)!
+
+My Github Pages contain an assortment of my ramblings, research, and nerd-talk. I hope you enjoy your stay :)
+
+# Tags
+Here's a list of tags to find something that interests you:
+- #blog
+- #research
+- #technology
+- #quantum-computing
+- #artificial-intelligence
