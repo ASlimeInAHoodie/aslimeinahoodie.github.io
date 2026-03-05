@@ -1,11 +1,15 @@
 ---
-title: soupedecode01 Walkthrough
+title: soupedecode01
 date: 2026-03-05
 tags:
   - technology
   - tryhackme
   - boot-to-root
+  - walkthrough
 ---
+# Description
+> **Soupedecode** is an intense and engaging challenge in which players must compromise a domain controller by exploiting Kerberos authentication, navigating through SMB shares, performing password spraying, and utilizing Pass-the-Hash techniques.
+
 # Killchain
 ## 1. Get the domain components of the controller via `nmap -sV` or `enum4linux-ng`.
 `#Reconnaissance`
