@@ -1,6 +1,6 @@
 ---
-title: Setting Up Quartz for Github Pages
-date: 2025-09-15
+title: Setting Up Quartz for Pages
+date: 2026-03-05
 tags:
   - blog
   - research
@@ -15,7 +15,7 @@ This site is hosted on the Quartz v4 framework by jzhao. You too can setup your 
 4. `npm audit fix` - Remediate vulnerabilities, but may cause compatibility issues. I did not have issues.
 5. `npx quartz create`
 6. In `/quartz/.github/workflows/` add the file `deploy.yml` with the following contents:
-   ```yaml
+```yaml
    name: Deploy Quartz site to GitHub Pages
  
 on:
@@ -61,7 +61,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-   ```
+```
 7. In your repository, head to "Settings" -> "Pages". In "Build and deployment", under "Source" select "GitHub Actions".
 8. `git remote rm origin` - Remove the original repo `https://github.com/jackyzha0/quartz.git`
 9. Create a Personal Access Token:
