@@ -1,12 +1,13 @@
 ---
 title: lookback
-date: 2026-03-05
+date: 2026-03-09
 tags:
   - technology
   - tryhackme
   - boot-to-root
   - walkthrough
   - hacking
+  - windows
 ---
 # Description
 > The Lookback company has just started the integration with Active Directory. Due to the coming deadline, the system integrator had to rush the deployment of the environment. Can you spot any vulnerabilities?

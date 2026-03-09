@@ -33,7 +33,9 @@ While this conclusion isn't as exciting as "Crypto is doomed!", it does raise a 
 ## External Sources
 ### Quantum Computing
 - [(Video) How Does a Quantum Computer Work? - Veritasium | Youtube](https://www.youtube.com/watch?v=g_IaVepNDT4)
+### Cryptocurrency
 - [Blockchain 101 - A Visual Demo - Anders Brownworth | Youtube](https://www.youtube.com/watch?v=_160oMzblY8)
 - [How Does Bitcoin Work? | Learn me a bitcoin](https://learnmeabitcoin.com/beginners/how-does-bitcoin-work/)
+### QComp x Crypto Relationship
 - [Quantum Computing x Crypto Everything You Need To Know | Presto Labs](https://www.prestolabs.io/research/quantum-computing-x-crypto-everything-you-need-to-know)
 - [Cryptocurrency vs. quantum computing | Coin Telegraph](https://cointelegraph.com/learn/articles/cryptocurrency-vs-quantum-computing-a-deep-dive-into-the-future-of-cryptocurrencies)

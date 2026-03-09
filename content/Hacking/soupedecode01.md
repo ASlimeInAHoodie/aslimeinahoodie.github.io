@@ -7,6 +7,7 @@ tags:
   - boot-to-root
   - walkthrough
   - hacking
+  - windows
 ---
 # Description
 > **Soupedecode** is an intense and engaging challenge in which players must compromise a domain controller by exploiting Kerberos authentication, navigating through SMB shares, performing password spraying, and utilizing Pass-the-Hash techniques.
