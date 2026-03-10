@@ -1,3 +1,30 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+article h1 {
+    color: var(--dark);
+}
+
+article h2 {
+    color: var(--secondary);
+}
+
+article h3 {
+    color: var(--tertiary);
+}
+
+article strong {
+    color: var(--secondary) !important;
+}
+
+article em {
+    color: var(--tertiary) !important;
+}
+
+article a {
+    color: var(--tertiary) !important;
+}
+
+article .text-highlight {
+    color: var(--light) !important;
+}

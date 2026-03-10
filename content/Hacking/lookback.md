@@ -30,7 +30,7 @@ tags:
 - Non-Application Layer Protocol (T1095)
 - Ingress Tool Transfer (T1105)
 # 5. Gain NT AUTHORITY\SYSTEM via an RCE exploit that bypasses authentication, impersonates an arbitrary user, and writes an arbitrary file in a vulnerable version of Exchange 2019.
-`#Prvilege Escalation #Actions on Objectives`
+`#Privilege Escalation #Actions on Objectives`
 - Exploitation for Privilege Escalation (T1068)
 - Domain Accounts (T1078.002)
 - Ingress Tool Transfer (T1105)
