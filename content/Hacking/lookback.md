@@ -38,7 +38,8 @@ tags:
 
 ---
 # Lessons Learnt
-- Always include the domain names in your /etc/hosts file for domain controllers.
+- Ensure you start enumerating and brute forcing as soon as possible to reduce waiting time for them to complete.
+- Just because an exploit with a similar name failed doesn't mean the others will fail too
 
 ---
 # Nmap
